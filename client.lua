@@ -52,6 +52,14 @@ function resetItems()
     checking = false
 end
 
+-- Vitto
+RegisterNetEvent("backitems:showagain", function()
+    resetItems()
+    Wait(2000)
+    BackLoop()
+end)
+---------
+
 function BackLoop()
     print("[Backitems]: Starting Loop")
     checking = true
@@ -146,7 +154,3 @@ RegisterNetEvent('weapons:client:SetCurrentWeapon', function(weap, shootbool)
         removeBackItem(currentWeapon)
     end
 end)
-
-
-
-
