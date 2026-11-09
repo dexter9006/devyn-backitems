@@ -1,6 +1,7 @@
 BackItems = {
+
     ["weapon_smg"] = {
-        model="w_sb_smg", 
+        model="w_sb_smg",
         back_bone = 24818,
         x = 0.0,
         y = -0.15,
@@ -8,9 +9,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = -180.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_bullpuprifle"] = {
-        model="w_ar_bullpuprifle", 
+        model="w_ar_bullpuprifle",
         back_bone = 24818,
         x = 0.0,
         y = -0.15,
@@ -18,7 +21,9 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = -180.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_specialcarbine"] = {
         model="w_ar_specialcarbine",
         back_bone = 24818,
@@ -28,7 +33,9 @@ BackItems = {
         x_rotation = 180.0,
         y_rotation = 180.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_assaultrifle"] = {
         model="w_ar_assaultrifle",
         back_bone = 24818,
@@ -38,9 +45,11 @@ BackItems = {
         x_rotation = 180.0,
         y_rotation = 180.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_carbinerifle"] = {
-        model="w_ar_carbinerifle", 
+        model="w_ar_carbinerifle",
         back_bone = 24818,
         x = 0.0,
         y = -0.15,
@@ -48,9 +57,11 @@ BackItems = {
         x_rotation = 180.0,
         y_rotation = 180.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_rpg"] = {
-        model="w_lr_rpg", 
+        model="w_lr_rpg",
         back_bone = 24818,
         x = 0.2,
         y = -0.17,
@@ -58,9 +69,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 180.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_heavysniper"] = {
-        model="w_sr_heavysniper", 
+        model="w_sr_heavysniper",
         back_bone = 24818,
         x = -0.1,
         y = -0.17,
@@ -68,9 +81,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = -145.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_sniperrifle"] = {
-        model="w_sr_sniperrifle", 
+        model="w_sr_sniperrifle",
         back_bone = 24818,
         x = -0.1,
         y = -0.2,
@@ -78,9 +93,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = -145.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_marksmanrifle"] = {
-        model="w_sr_marksmanrifle", 
+        model="w_sr_marksmanrifle",
         back_bone = 24818,
         x = -0.1,
         y = -0.2,
@@ -88,9 +105,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = -145.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_microsmg"] = {
-        model="w_sb_microsmg", 
+        model="w_sb_microsmg",
         back_bone = 24818,
         x = 0.1,
         y = -0.15,
@@ -98,9 +117,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = -180.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_pumpshotgun"] = {
-        model="w_sg_pumpshotgun", 
+        model="w_sg_pumpshotgun",
         back_bone = 24818,
         x = -0.2,
         y = -0.14,
@@ -108,9 +129,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 180.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_beanbagshotgun"] = {
-        model="w_sg_beanbagshotgun", 
+        model="w_sg_beanbagshotgun",
         back_bone = 24818,
         x = -0.1,
         y = -0.17,
@@ -118,9 +141,11 @@ BackItems = {
         x_rotation = 180.0,
         y_rotation = 165.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_dagger"] = {
-        model="prop_w_me_dagger", 
+        model="prop_w_me_dagger",
         back_bone = 24818,
         x = -0.22,
         y = -0.15,
@@ -128,9 +153,11 @@ BackItems = {
         x_rotation = 180.0,
         y_rotation = 0.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_machete"] = {
-        model="w_me_machette_lr", 
+        model="w_me_machette_lr",
         back_bone = 24818,
         x = -0.15,
         y = -0.15,
@@ -138,9 +165,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 0.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_bat"] = {
-        model="p_cs_bbbat_01", 
+        model="p_cs_bbbat_01",
         back_bone = 24818,
         x = 0.17,
         y = -0.17,
@@ -148,9 +177,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 90.0,
         z_rotation = 180.0,
+
     },
+
     ["markedbills"] = {
-        model="p_ld_heist_bag_s", 
+        model="p_ld_heist_bag_s",
         back_bone = 24818,
         x = -0.05,
         y = -0.07,
@@ -158,9 +189,11 @@ BackItems = {
         x_rotation = 90.0,
         y_rotation = -90.0,
         z_rotation = 90.0,
+
     },
+
     ["meth"] = {
-        model="hei_prop_pill_bag_01", 
+        model="hei_prop_pill_bag_01",
         back_bone = 24818,
         x = -0.3,
         y = -0.15,
@@ -168,9 +201,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 90.0,
         z_rotation = 0.0,
+
     },
+
     ["coke_brick"] = {
-        model="bkr_prop_coke_cutblock_01", 
+        model="bkr_prop_coke_cutblock_01",
         back_bone = 24818,
         x = -0.20,
         y = -0.17,
@@ -178,9 +213,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 90.0,
         z_rotation = 90.0,
+
     },
+
     ["weed_bud"] = {
-        model="bkr_prop_weed_drying_01a", 
+        model="bkr_prop_weed_drying_01a",
         back_bone = 24818,
         x = -0.20,
         y = -0.17,
@@ -188,10 +225,13 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 90.0,
         z_rotation = 0.0,
+
     },
+
     -- Vitto
+
     ["skateboard"] = {
-        model="p_defilied_ragdoll_01_s", 
+        model="p_defilied_ragdoll_01_s",
         back_bone = 24818,
         x = 0.05,
         y = -0.25,
@@ -199,15 +239,22 @@ BackItems = {
         x_rotation = 268.0,
         y_rotation = 180.0,
         z_rotation = 0.0,
+
     },
+
 }
 
--- Vitto, l'original est en bas
+
+
+-- Vitto,l'original est en bas
+
 --[[
+
 BackItems = {
+
     ["markedbills"] = { -- Item Name
-        model="prop_money_bag_01", -- Model you want to display
-        back_bone = 24818, -- PED bone the entity is attached to.
+        model="prop_money_bag_01",-- Model you want to display
+        back_bone = 24818,-- PED bone the entity is attached to.
         -- Location of the model on the players back. Note this is and offset relative to the players bone coords.
         x = -0.6,
         y = -0.15,
@@ -216,10 +263,13 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 70.0,
         z_rotation = 0.0,
+
     },
 
+
+
     ["meth"] = {
-        model="hei_prop_pill_bag_01", 
+        model="hei_prop_pill_bag_01",
         back_bone = 24818,
         x = -0.3,
         y = -0.15,
@@ -227,10 +277,13 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 90.0,
         z_rotation = 0.0,
+
     },
-    
+
+
+
     ["weapon_smg"] = {
-        model="w_sb_smg", 
+        model="w_sb_smg",
         back_bone = 24818,
         x = 0.0,
         y = -0.17,
@@ -238,7 +291,9 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = -180.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_assaultrifle"] = {
         model="w_ar_assaultrifle",
         back_bone = 24818,
@@ -248,9 +303,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = -180.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_carbinerifle"] = {
-        model="w_ar_carbinerifle", 
+        model="w_ar_carbinerifle",
         back_bone = 24818,
         x = 0.0,
         y = -0.17,
@@ -258,9 +315,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = -180.0,
         z_rotation = 180.0,
+
     },
+
     ["weapon_rpg"] = {
-        model="w_lr_rpg", 
+        model="w_lr_rpg",
         back_bone = 24818,
         x = 0.2,
         y = -0.17,
@@ -268,9 +327,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 180.0,
         z_rotation = 180.0,
+
     },
+
     ["coke_brick"] = {
-        model="bkr_prop_coke_cutblock_01", 
+        model="bkr_prop_coke_cutblock_01",
         back_bone = 24818,
         x = -0.20,
         y = -0.17,
@@ -278,9 +339,11 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 90.0,
         z_rotation = 90.0,
+
     },
+
     ["weed_bud"] = {
-        model="bkr_prop_weed_drying_01a", 
+        model="bkr_prop_weed_drying_01a",
         back_bone = 24818,
         x = -0.20,
         y = -0.17,
@@ -288,10 +351,13 @@ BackItems = {
         x_rotation = 0.0,
         y_rotation = 90.0,
         z_rotation = 0.0,
+
     },
+
     -- Vitto
+
     ["skateboard"] = {
-        model="p_defilied_ragdoll_01_s", 
+        model="p_defilied_ragdoll_01_s",
         back_bone = 24818,
         x = 0.05,
         y = -0.25,
@@ -299,6 +365,9 @@ BackItems = {
         x_rotation = 268.0,
         y_rotation = 180.0,
         z_rotation = 0.0,
+
     },
+
 }
+
 --]]
